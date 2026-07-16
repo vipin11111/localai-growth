@@ -1,8 +1,9 @@
 # LocalAI Growth — SaaS Suite for Small Businesses
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vipin11111/localai-growth)
+🔗 **[Live Prototype Preview](https://merry-praline-0f7cbb.netlify.app/)** &nbsp;&nbsp;|&nbsp;&nbsp; [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vipin11111/localai-growth)
 
 A fully functional, polished, and production-ready MVP designed to help local small businesses build and manage their entire online footprint from one beautiful dashboard. Built using Google's **Material Design 3 (MD3)** aesthetics and powered by the cutting-edge **Gemini API** and **Firebase**.
+
 
 
 ## Key Modules & Features
