@@ -1,0 +1,6 @@
+{
+  "name": "LocalAI Growth",
+  "description": "AI-powered SaaS platform for small businesses to create and manage their complete online presence from a unified dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
