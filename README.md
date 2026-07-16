@@ -1,6 +1,9 @@
 # LocalAI Growth — SaaS Suite for Small Businesses
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vipin11111/localai-growth)
+
 A fully functional, polished, and production-ready MVP designed to help local small businesses build and manage their entire online footprint from one beautiful dashboard. Built using Google's **Material Design 3 (MD3)** aesthetics and powered by the cutting-edge **Gemini API** and **Firebase**.
+
 
 ## Key Modules & Features
 
@@ -50,8 +53,16 @@ A fully functional, polished, and production-ready MVP designed to help local sm
 
 ## Installation & Deployment Guide
 
+### Local Development
 1. Ensure a valid `GEMINI_API_KEY` is configured in your Secrets panel or local `.env` environment.
 2. Run `npm install` to load all package dependencies.
 3. Boot the development workspace via `npm run dev` (starts the full-stack server on port 3000).
 4. Build static bundle targets via `npm run build`.
 5. Run the production artifact bundle via `npm run start`.
+
+### Cloud Deployment (Render)
+You can deploy a working prototype of this project online in 2 minutes:
+1. Click the **Deploy to Render** button at the top of this README.
+2. When prompted, paste your `GEMINI_API_KEY` from Google AI Studio.
+3. Render will build and deploy the app automatically!
+
